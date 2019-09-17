@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gpsgeofence-dsiegy",
+  "private_key_id": "090958c91dae62f3fed9f34ee9030da824048f61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKuy6I/SDxFxfd\nXT2JOPNCe/+JfPXQEutkjsLy2SZ9lO9WjKrmn/8+7pO6bX6NaGcX2b+sf0/jvOqb\nh/J+ZUQuPi2+pvTa1VHsv7fkLHRYzrWUY2hrg5UIfjcdjoEZixvQLK9gTwMGaMi/\naL2G5gmtE5Cv09/VqPPy+0Ov4d/JwCXrT+/aVGpu+Ue14W8rucETbzpoBG8NNOlO\nDqjwsEIDBDfIMWUG92LxQTNl5tLvnqPRD+aJLDErNlRF4smekU92979BhqofQnLt\n3nnM+9Evjdwy5GlrEjz8FshGDch37XB3RLL/Yg0A+eYYJZcvYVQXtDjIkQrSRFXp\nzAHMjup5AgMBAAECggEAIaKvbiw9G+b29MdB/66soA5zTtDawleL9eX9EyceA22k\nN65EU0UwfAAZFias+7j34dr782Usp/EqSopD+2wvAy01JxfQnuwAgG+dNLeof82i\nTbdqXkLZU+VSFJrz5w8Ir8jdvnJ5r8ig/3N0HCxS5UEsn8y1ZNahSuSrrQ2NFhti\nRT3csJdo6uPJ6tdinYmWTkYmWBydIFMRNL4hWFZWIMwP/2MnFa08qIcNgIByVWTs\nEXEWA4VW900kzUmNQuSoNZylqcsMRjkiU+nmFgME3gfbCDO+6LJU2enRn/VpaaHo\nBanaJm0odaJee7u05vxR6+Y8WOUE3l0RuWXS67NW+QKBgQDDR6A/n0HJYLf7bESI\noYSLBXmslWgfQVc4khw52/frZBNO79A7QAZrTJ+Rtk+DSb7k4gJn2dbB9GlEDsbQ\no2BsRK/jnjnDvvJWZFX/ALb3KmWiwB11npe8jH4s974UEUXRyKa24yOuoPYwWZhB\n9gOSmjsVOyDRpZsp8jb5PjXCTQKBgQC13kG0t+75iLB4Bw1n/sL16vVLV+ho0XIG\nvTsBddwrniP2Hyl3jIhiOyGimGZT1NWQaiob9Az3Vf2c7JS1q1IXVhDuInSGRKSv\nz0BAu/6wY0ibZ2f7kLfL1zy3Jla1BUPbPDR5oPSKZPaiPXD9sk9YhYzrZxJQh5X1\nKDingmnm3QKBgA7NlzA7elkxo8DDbE6PL+T5/Uc/7CyyX1JCgTFBo4GMjIonU7mq\nGNJ5dH8vOsfRB0+Ccnw83zLEvFYUaK3YNK8AZfTzQZ29E9HIuVwjSbti02GK/rCz\n3PzGCaqO/TG4PXqxozGp9kJ+oSr5H7mgVJUAbAon+UzrKN/9JH2wYZLhAoGBAIrd\nAV5zcsylSdjbyai2JTaQCGtW2+XsxhvPMNaUn1/Oh7bNZGQbsacPb0cvBjLMN6Tk\n6vIdDilsRxEiswljnnKjDJpHRKGgl/6FSJIk+PrFVBMUiZjTjwLdfUZ6x4nAU2d6\nOLcF5rIlFQwbzcJn+52jm03CjYFfhWiDJX8BXMshAoGAP053WExx+EVra47K/CBy\nq60KwgUHcAdWCCpml4N0pFfswdDkWLPgHeTfZA643PXeggR5chnWS7Qg+KxV7asR\n0MF6P8gMw3UgHkfALJglcaGCm38XeM7LC/egFcVqtkMHVRy/YdTRIlB+ANja331w\nDZPr3x5qsEJ4yf7o0gAWruE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-yapceg@gpsgeofence-dsiegy.iam.gserviceaccount.com",
+  "client_id": "110026421836885755408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-yapceg%40gpsgeofence-dsiegy.iam.gserviceaccount.com"
+}
